@@ -36,8 +36,9 @@ Follow these steps to set up and run the project locally:
 
    ```bash
    npm install
-
+   ```
    Install Material-UI: Material-UI is used for the UI components in this project. Install the required Material-UI packages:
+   ```bash
    npm install @mui/material @emotion/react @emotion/styled
    npm install @mui/icons-material
    ```
