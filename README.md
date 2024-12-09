@@ -80,7 +80,12 @@ src/
 ---
 ### 🧩 Customization
 ```text
-This project is built to be highly customizable. You can freely modify the styles, components, and structure to meet your specific requirements. Whether you want to change the theme, add new pages, or integrate with your backend, this template is designed to be flexible and developer-friendly.
+This project is built to be highly customizable. You can freely modify the styles, components,
+and structure to meet your specific requirements.
+
+Whether you want to change the theme, add new pages,
+or integrate with your backend,
+this template is designed to be flexible and developer-friendly.
 
 Feel free to fork the repository and make it your own!
 
