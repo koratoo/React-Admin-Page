@@ -50,7 +50,7 @@ Follow these steps to set up and run the project locally:
    ```
 
 ---
-📁 Project Structure
+### 📁 Project Structure
 plaintext
 ```
 src/
@@ -63,9 +63,10 @@ src/
 └── App.js               # Main entry point
 ```
 ---
-🖼️ Screenshots
+### 🖼️ Screenshots
 Here are some screenshots of the application:
 ![image](https://github.com/user-attachments/assets/fc3b3d86-32b7-417a-a41c-76e70828ef96)
+---
 ![image](https://github.com/user-attachments/assets/5f80606f-fcdd-43c2-bf4a-e0f05bb58540)
 ![image](https://github.com/user-attachments/assets/1359eef9-eb12-4d4b-aa73-e3b5bdc2c9e8)
 ![image](https://github.com/user-attachments/assets/591f8b9a-f1e1-4592-9563-5caca88a7338)
