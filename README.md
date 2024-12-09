@@ -51,7 +51,7 @@ Follow these steps to set up and run the project locally:
 
 ---
 ### 📁 Project Structure
-plaintext
+
 ```
 src/
 ├── components/          # Reusable UI components
@@ -64,7 +64,7 @@ src/
 ```
 ---
 ### 🖼️ Screenshots
-Here are some screenshots of the application:
+##### Here are some screenshots of the application:
 ![image](https://github.com/user-attachments/assets/fc3b3d86-32b7-417a-a41c-76e70828ef96)
 ---
 ![image](https://github.com/user-attachments/assets/5f80606f-fcdd-43c2-bf4a-e0f05bb58540)
