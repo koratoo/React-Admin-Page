@@ -77,4 +77,12 @@ src/
 ![image](https://github.com/user-attachments/assets/1359eef9-eb12-4d4b-aa73-e3b5bdc2c9e8)
 ---
 ![image](https://github.com/user-attachments/assets/591f8b9a-f1e1-4592-9563-5caca88a7338)
+---
+### 🧩 Customization
+```text
+This project is built to be highly customizable. You can freely modify the styles, components, and structure to meet your specific requirements. Whether you want to change the theme, add new pages, or integrate with your backend, this template is designed to be flexible and developer-friendly.
 
+Feel free to fork the repository and make it your own!
+
+-koratoo
+```
