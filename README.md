@@ -50,6 +50,22 @@ Follow these steps to set up and run the project locally:
    ```
 
 ---
+📁 Project Structure
+plaintext
+코드 복사
+src/
+├── components/          # Reusable UI components
+│   ├── layout/          # Header, Sidebar, Footer components
+│   ├── common/          # Shared components (e.g., Buttons, Modals)
+├── pages/               # Route-specific pages
+├── styles/              # Global styles and themes
+├── services/            # API-related code
+└── App.js               # Main entry point
+
+---
+🖼️ Screenshots
+Here are some screenshots of the application:
+---
 
 ## 📜 License
 
