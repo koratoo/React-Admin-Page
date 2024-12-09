@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Noto+Sans:wght@400;700&display=swap");
+
+/* 전역 스타일 */
+body {
+  font-family: "Roboto", "Noto Sans", sans-serif; /* 기본 폰트 설정 */
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9; /* 배경색 */
+  color: #333; /* 기본 텍스트 색상 */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Noto Sans", sans-serif; /* 헤더에 별도 폰트 적용 */
+}
+
+button,
+input,
+select {
+  font-family: "Roboto", sans-serif; /* 버튼, 입력 폼 등에 폰트 적용 */
+}
